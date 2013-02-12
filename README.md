@@ -3,10 +3,12 @@ sqlfw
 
 SQLFire*Web - New Browser-based Database Schema Management Tool Available for SQLFire
 
-Currently only the WAR file exists which is in the same directory as this README file.
+Download latest drop from this repository as follows
 
+ https://github.com/papicella/sqlfw/tree/master/vmware-au-se-sqlfireweb/deploy
+ 
 Install sqlfw.war in your java runtime container and then connect to vFabric SQLFire once the application is launched as follows
 
 http://{server-ip-address}:{server-port}/sqlfw/sqlfireweb/login
 
-Created by Pas Apicella Jan 2013
+Created by Pas Apicella Feb 2013
